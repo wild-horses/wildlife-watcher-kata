@@ -1,0 +1,7 @@
+name: wild-horses
+title: Wild Horses
+version: 1.0
+start_page: index.adoc
+nav:
+  - modules/ROOT/nav.adoc
+  - modules/01-introduction-and-goals/nav.adoc

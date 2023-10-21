@@ -1,0 +1,14 @@
+{
+  "name": "wildlife-watcher-kata",
+  "version": "1.0.0",
+  "description": "Repo for the O'Reilly Architecture Kata fall of 2023",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@antora/cli": "3.1.4",
+    "@antora/site-generator": "3.1.4"
+  }
+}
