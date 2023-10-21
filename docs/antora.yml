@@ -1,7 +1,18 @@
-name: wild-horses
-title: Wild Horses
+name: wildlife-watcher
+title: Wildlife Watcher
 version: 1.0
 start_page: index.adoc
 nav:
   - modules/ROOT/nav.adoc
   - modules/01-introduction-and-goals/nav.adoc
+  - modules/02-architecture-constraints/nav.adoc
+  - modules/03-context-and-scope/nav.adoc
+  - modules/04-solution-strategy/nav.adoc
+  - modules/05-building-block-view/nav.adoc
+  - modules/06-runtime-view/nav.adoc
+  - modules/07-deployment-view/nav.adoc
+  - modules/08-crosscutting-concepts/nav.adoc
+  - modules/09-architecture-decisions/nav.adoc
+  - modules/10-quality-requirements/nav.adoc
+  - modules/11-risks-and-technical-debt/nav.adoc
+  - modules/12-glossary/nav.adoc

@@ -1,14 +1,15 @@
 site:
-  title: Wild Horses
-  start_page: wild-horses::index.adoc
+  title: Wildlife Watcher
+  start_page: wildlife-watcher::index.adoc
 content:
   sources:
-    - url: ~/wild-horses/wildlife-watcher-kata
+    # - url: https://github.com/wild-horses/wildlife-watcher-kata
+    #   branches: [add-antora]
+    #   start_path: docs
+    - url: .
       branches: [HEAD]
       start_path: docs
-    - url: https://gitlab.com/antora/demo/demo-component-b.git
-      branches: [v2.0, v1.0]
-      start_path: docs
+
 ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
